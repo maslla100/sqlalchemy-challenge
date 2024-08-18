@@ -57,7 +57,7 @@ The Flask API serves the results of the analysis through various routes:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/maslla100/sqlalchemy-challenge
    ```
 2. **Navigate to the Project Directory**:
    ```bash
